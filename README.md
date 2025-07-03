@@ -39,8 +39,8 @@ A simple, responsive personal task management app built with React. Easily add, 
 [Add your deployed app link here, e.g. Netlify/Vercel/GitHub Pages]
 
 ## 🖼 Screenshots
-![Login Screen](screenshots/login.png)
-![Task Dashboard](screenshots/dashboard.png)
+![Login Screen](attachments/1.png)
+![Task Dashboard](attachments/2.png)
 
 ---
 
@@ -97,9 +97,7 @@ const sampleTasks = [
 
 ## 📬 Submission
 - GitHub repository: https://github.com/JHAJI01/RYGNeco_Work.git
-- Live demo: [Add your live URL here]
+
+- Live demo (Vercel): https://ryg-neco-work.vercel.app/
 
 ---
-
-## ❓ Questions?
-Feel free to reach out for clarifications. Thank you for reviewing my submission!
