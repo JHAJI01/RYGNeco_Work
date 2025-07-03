@@ -71,3 +71,9 @@ src/
 - Live demo (Vercel): https://ryg-neco-work.vercel.app/
 
 ---
+
+## 🖼 Screenshots
+![Login Screen](attachments/2.png)
+![Task Dashboard](attachments/1.png)
+
+---
