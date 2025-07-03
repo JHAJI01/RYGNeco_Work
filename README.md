@@ -73,7 +73,7 @@ src/
 ---
 
 ## 🖼 Screenshots
-![Login Screen](attachments/2.png)
-![Task Dashboard](attachments/1.png)
+![Login Screen](attachments/Personal-Task-Tracker-07-03-2025_01_09_PM.png)
+![Task Dashboard](attachments/Personal-Task-Tracker-07-03-2025_01_10_PM.png)
 
 ---
